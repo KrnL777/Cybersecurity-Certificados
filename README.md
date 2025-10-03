@@ -1,5 +1,5 @@
 
-### 🔓 TryHackMe Certificados
+### 🔓 Certificados
 ### Pre Security
 ![image](https://github.com/user-attachments/assets/87b5fa91-7336-4a47-884e-adf4f39ab7d5)
 ### Jr Penetration Tester
