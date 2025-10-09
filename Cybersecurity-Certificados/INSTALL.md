@@ -17,7 +17,3 @@
 5. 🚀 **Commit & push** your changes to GitHub.
 
 ---
-
-> 💡 **Dica | Tip:**  
-> Mantenha este repositório atualizado à medida que concluir novos cursos e laboratórios.  
-> Isso mostra crescimento contínuo e comprometimento profissional.
