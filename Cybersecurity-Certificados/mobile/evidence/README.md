@@ -19,4 +19,5 @@
 **Breve descrição**:
 
   **PT-BR:** Curso voltado à engenharia reversa e criação de malwares controlados para fins educacionais e análise defensiva.  
+  
   **EN:** Course focused on reverse engineering and the development of controlled malware for educational and defensive analysis.
