@@ -1,6 +1,8 @@
 ###Mobile
 
 ### Pentest em Aplicativos Android
-![image](https://github.com/user-attachments/assets/71c1c680-4ef5-488d-8040-63874cf89272)
+[pentest-em-aplicativos-android.pdf](https://github.com/user-attachments/files/22855990/pentest-em-aplicativos-android)
 ### Desenvolvimento de Malwares para Android
-![image](https://github.com/user-attachments/assets/205bfd00-8bbb-4fcb-82ff-439559a3b56c)
+[desenvolvimento-de-malwares-para-android.pdf](https://github.com/user-attachments/files/22855993/desenvolvimento-de-malwares-para-android)
+
+
