@@ -3,6 +3,7 @@
 ## 🛰️ Network Security — Infrastructure / Cloud / Wi-Fi
 
 **PT-BR:** Certificados e evidências sobre segurança de redes, infraestrutura, nuvem e Wi-Fi — abrangendo reconhecimento, análise de tráfego, exploração e mitigação.  
+
 **EN:** Certificates and evidences related to network, infrastructure, cloud and Wi-Fi security — covering reconnaissance, traffic analysis, exploitation and mitigation.
 
 ---
