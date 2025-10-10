@@ -15,7 +15,7 @@
 
 ### 🤖 Automação e Estratégias em Bug Bounty
 
-![image](https://github.com/user-attachments/assets/38e63a17-d1ff-440f-b208-ed7ecf6a25ff)  
+![image](https://github.com/user-attachments/assets/bdc09da0-e717-404d-bef7-01c833426498)  
 
 
 **Breve descrição:**
@@ -28,7 +28,7 @@
 
 ### 🧠 Inteligência Artificial para Pentest Web
 
-![image](<https://github.com/user-attachments/assets/d84fa9fc-2fd4-4e5e-865d-9ad842d8908e)  
+![image](https://github.com/user-attachments/assets/d84fa9fc-2fd4-4e5e-865d-9ad842d8908e)  
 
 
 **Breve descrição:**
