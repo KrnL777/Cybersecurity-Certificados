@@ -10,7 +10,7 @@
 
 ## 📜 Certificados / Certificates
 
-- [Dominando o Recon em Pentest](./certificates/dominando-o-recon-em-pentest.pdf) — Curso de técnicas e ferramentas de reconhecimento para mapeamento de alvos.  
+- [Dominando o Recon em Pentest](./certificates/Dominando-o-Recon-em-Pentest.pdf) — Curso de técnicas e ferramentas de reconhecimento para mapeamento de alvos.  
 - [Ataques em Redes Wi-Fi](./certificates/ataques-em-redes-wi-fi.pdf) — Curso prático de ataques e testes em redes Wi-Fi.  
 - [Segurança em Redes Wi-Fi](./certificates/seguranca-em-redes-wi-fi.pdf) — Curso sobre mitigação e proteção em redes sem fio.  
 - [Fundamentos de Redes para Pentesters](./certificates/fundamentos-de-redes-para-pentesters.pdf) — Curso introdutório sobre protocolos e análise de tráfego.  
