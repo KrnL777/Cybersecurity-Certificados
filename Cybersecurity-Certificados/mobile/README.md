@@ -9,7 +9,7 @@
 
 ## 🧾 Certificados / Certificates
 
-- [Desenvolvimento de Malwares para Android](./evidence/Desenvolvimento%20de%20Malwares%20para%20Android.pdf) — Curso de segurança e engenharia reversa focado em Android. — Concluído: 2025-10-03 
-- [Pentest em Aplicativos Android](./evidence/Pentest%20em%20Aplicativos%20Android.pdf) — Curso prático de pentest mobile e análise de vulnerabilidades. — Concluído: 2025-10-03 
+- [Desenvolvimento de Malwares para Android](./evidence/Desenvolvimento%20de%20Malwares%20para%20Android.pdf) — Curso de segurança e engenharia reversa focado em Android.
+- [Pentest em Aplicativos Android](./evidence/Pentest%20em%20Aplicativos%20Android.pdf) — Curso prático de pentest mobile e análise de vulnerabilidades. 
 
 ---
