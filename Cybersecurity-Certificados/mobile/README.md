@@ -1,12 +1,15 @@
 # MOBILE
 
-Breve descrição: Segurança mobile (Android/iOS), análise de APK, reverse engineering de apps, insegurança em storage/IPC.
+# 📱 Mobile Security — Mobile / Apps
 
-## Certificados
-- `mobile_example_cert.png` — Nome do certificado — Concluído: YYYY-MM-DD — (paid/free)
+**PT-BR:** Certificados e evidências sobre segurança mobile (Android/iOS), engenharia reversa de APKs e análise de vulnerabilidades em apps.  
+**EN:** Certificates and evidences related to mobile security (Android/iOS), APK reverse engineering, and app vulnerability analysis.
 
-## Evidências / Writeups
-- `evidence/mobile_scan_example.png` — descrição curta (resultado de scan, screenshot, output)
+---
 
-## Observações
-- Mantenha apenas evidências que *comprovem* aprendizado e mitigação; evite publicar PoCs automatizáveis.
+## 🧾 Certificados / Certificates
+
+- [Desenvolvimento de Malwares para Android](./evidence/Desenvolvimento%20de%20Malwares%20para%20Android.pdf) — Curso de segurança e engenharia reversa focado em Android. — Concluído: 2025-10-03 
+- [Pentest em Aplicativos Android](./evidence/Pentest%20em%20Aplicativos%20Android.pdf) — Curso prático de pentest mobile e análise de vulnerabilidades. — Concluído: 2025-10-03 
+
+---
