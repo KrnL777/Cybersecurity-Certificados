@@ -1,6 +1,6 @@
 # MOBILE
 
-# 📱 Mobile Security — Mobile / Apps
+## 📱 Mobile Security — Mobile / Apps
 
 **PT-BR:** Certificados e evidências sobre segurança mobile (Android/iOS), engenharia reversa de APKs e análise de vulnerabilidades em apps.  
 
@@ -8,9 +8,9 @@
 
 ---
 
-## 🧾 Certificados / Certificates
+## 📜 Certificados / Certificates
 
-- [Desenvolvimento de Malwares para Android](.certificates/desenvolvimento%20de%20malwares%20para%20android.pdf) — Curso de segurança e engenharia reversa focado em Android.
-- [Pentest em Aplicativos Android](./evidence/Pentest%20em%20Aplicativos%20Android.pdf) — Curso prático de pentest mobile e análise de vulnerabilidades. 
+- [Desenvolvimento de Malwares para Android](./certificates/desenvolvimento-de-malwares-para-android.pdf) — Curso de segurança e engenharia reversa focado em Android.  
+- [Pentest em Aplicativos Android](./certificates/pentest-em-aplicativos-android.pdf) — Curso prático de pentest mobile e análise de vulnerabilidades.
 
 ---
