@@ -10,11 +10,11 @@
 
 ## 📜 Certificados / Certificates
 
-- [Dominando o Recon em Pentest](./certificates/Dominando-o-Recon-em-Pentest.pdf) — Curso de técnicas e ferramentas de reconhecimento para mapeamento de alvos.  
+- [Dominando o Pentest em Infraestrutura](./certificates/Dominando-o-pentest-em-Infraestrutura.pdf) — Curso de técnicas e ferramentas de reconhecimento para mapeamento de alvos.  
 - [Ataques em Redes Wi-Fi](./certificates/ataques-em-redes-wi-fi.pdf) — Curso prático de ataques e testes em redes Wi-Fi.  
 - [Segurança em Redes Wi-Fi](./certificates/segurança-em-redes-wi-fi.pdf) — Curso sobre mitigação e proteção em redes sem fio.  
 - [Fundamentos de Redes para Pentesters](./certificates/fundamentos-de-redes-para-pentesters.pdf) — Curso introdutório sobre protocolos e análise de tráfego.  
-- [Pentest em Ambientes de Nuvem (Cloud Pentest)](./certificates/pentest-em-ambientes-de-nuvem.pdf)./evidence/Pentest%20em%20Ambientes%20de%20Nuvem.pdf) — Curso de pentest em infraestrutura cloud.  
+- [Pentest em Ambientes de Nuvem (Cloud Pentest)](./certificates/pentest-em-ambientes-de-nuvem.pdf) — Curso de pentest em infraestrutura cloud.  
 - [Dominando o Pentest em Infraestrutura](./certificates/dominando-o-pentest-em-infraestrutura.pdf) — Curso avançado sobre exploração e análise de redes corporativas.
 
 ---
