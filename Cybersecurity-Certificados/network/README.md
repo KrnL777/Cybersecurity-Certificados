@@ -15,6 +15,6 @@
 - [Segurança em Redes Wi-Fi](./certificates/seguranca-em-redes-wi-fi.pdf) — Curso sobre mitigação e proteção em redes sem fio.  
 - [Fundamentos de Redes para Pentesters](./certificates/fundamentos-de-redes-para-pentesters.pdf) — Curso introdutório sobre protocolos e análise de tráfego.  
 - [Pentest em Ambientes de Nuvem (Cloud Pentest)](./certificates/pentest-em-ambientes-de-nuvem.pdf) — Curso de pentest em infraestrutura cloud.  
-- [Dominando o Pentest em Infraestrutura](./certificates/dominando-o-pentest-em-infraestrutura.pdf) — Curso avançado sobre exploração e análise de redes corporativas.
+- [Dominando o Pentest em Infraestrutura](./certificates/dominando-o-pentest-em-Infraestrutura-de-redes.pdf) — Curso avançado sobre exploração e análise de redes corporativas.
 
 ---
