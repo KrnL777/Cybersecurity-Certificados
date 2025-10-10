@@ -7,8 +7,9 @@
  **Breve descrição**:
 
   **PT-BR:** Curso prático de pentest em aplicativos Android, cobrindo autenticação, análise de tráfego e reversing básico.
+  ---
   **EN:** Practical course on Android app penetration testing, covering authentication, traffic analysis, and basic reversing.
----
+  ---
 
 ### 🧠 Desenvolvimento de Malwares para Android
 
