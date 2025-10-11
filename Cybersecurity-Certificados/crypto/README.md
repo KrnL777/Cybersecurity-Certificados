@@ -1,12 +1,15 @@
-# CRYPTO
+# 🔐 CRYPTO
 
-Breve descrição: Criptografia aplicada, hashing, PKI, SSL/TLS analysis, crypto misuse reviews.
+## Cryptography & Offensive Encryption — Fundamentals / Exploitation / Defense
 
-## Certificados
-- `crypto_example_cert.png` — Nome do certificado — Concluído: YYYY-MM-DD — (paid/free)
+**PT-BR:** Certificados e evidências relacionadas à criptografia aplicada, análise de senhas, exploração de algoritmos, e defesa de dados sensíveis.  
 
-## Evidências / Writeups
-- `evidence/crypto_scan_example.png` — descrição curta (resultado de scan, screenshot, output)
+**EN:** Certificates and evidences related to applied cryptography, password analysis, algorithm exploitation, and data protection.
 
-## Observações
-- Mantenha apenas evidências que *comprovem* aprendizado e mitigação; evite publicar PoCs automatizáveis.
+---
+
+## 📜 Certificados / Certificates
+
+- [Fundamentos de Criptografia e Senhas](.certificates/fundamentos-de-criptografia-e-senhas.pdf) — Curso introdutório sobre criptografia simétrica, assimétrica e boas práticas de hashing.
+
+  ---
