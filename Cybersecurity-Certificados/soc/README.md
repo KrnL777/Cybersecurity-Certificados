@@ -1,12 +1,13 @@
-# SOC
+# 🛡️ SOC
 
-Breve descrição: Detecção e resposta (SIEM), análise de logs, threat hunting, incident response basics.
+## SOC Security — SIEM / Threat Hunting / DFIR
 
-## Certificados
-- `soc_example_cert.png` — Nome do certificado — Concluído: YYYY-MM-DD — (paid/free)
+**PT-BR:** Certificados e evidências relacionadas à detecção e resposta a incidentes (SIEM), análise de logs, threat hunting, forense digital e automação defensiva.  
 
-## Evidências / Writeups
-- `evidence/soc_scan_example.png` — descrição curta (resultado de scan, screenshot, output)
+**EN:** Certificates and evidences related to incident detection and response (SIEM), log analysis, threat hunting, digital forensics, and defensive automation.
 
-## Observações
-- Mantenha apenas evidências que *comprovem* aprendizado e mitigação; evite publicar PoCs automatizáveis.
+---
+
+## 📜 Certificados / Certificates
+
+- [Fundamentos de Segurança da Informação e Pentest](./certificates/fundamentos-de-seguranca-da-informacao-e-pentest.pdf) — Curso introdutório sobre segurança da informação, princípios de pentest e fundamentos de defesa.  
