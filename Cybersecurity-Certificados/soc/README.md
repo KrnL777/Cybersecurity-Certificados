@@ -10,4 +10,6 @@
 
 ## 📜 Certificados / Certificates
 
-- [Fundamentos de Segurança da Informação e Pentest](./certificates/fundamentos-de-seguranca-da-informacao-e-pentest.pdf) — Curso introdutório sobre segurança da informação, princípios de pentest e fundamentos de defesa.  
+- [Fundamentos de Segurança da Informação e Pentest](./certificates/fundamentos-de-seguranca-da-informacao-e-pentest.pdf) — Curso introdutório sobre segurança da informação, princípios de pentest e fundamentos de defesa.
+
+---
