@@ -13,5 +13,5 @@
 - [Ataques em Aplicações Web](./certificates/ataques-em-aplicacoes-web.pdf) — Curso prático sobre exploração de vulnerabilidades OWASP e bypass de WAFs.  
 - [Automação e Estratégias em Bug Bounty](./certificates/automacao-e-estrategias-em-bug-bounty.pdf) — Curso sobre automação, fuzzing e metodologia profissional de bug bounty.  
 - [Inteligência Artificial para Pentest Web](./certificates/inteligencia-artificial-para-pentest-web.pdf) — Curso sobre uso de IA em pentest e automação de análises de segurança.  
-
+- [Desenvolvimento Web Para Pentesters](./certificates/desenvolvimento-web-para-pentesters.pdf) — Curso sobre fundamentos de desenvolvimento seguro e aplicações web ofensivas. 
 ---
