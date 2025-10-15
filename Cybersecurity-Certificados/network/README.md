@@ -16,5 +16,7 @@
 - [Fundamentos de Redes para Pentesters](./certificates/fundamentos-de-redes-para-pentesters.pdf) — Curso introdutório sobre protocolos e análise de tráfego.  
 - [Pentest em Ambientes de Nuvem (Cloud Pentest)](./certificates/pentest-em-ambientes-de-nuvem.pdf) — Curso de pentest em infraestrutura cloud.  
 - [Dominando o Pentest em Infraestrutura](./certificates/dominando-o-pentest-em-Infraestrutura-de-redes.pdf) — Curso avançado sobre exploração e análise de redes corporativas.
-
+- [Ataques Denial of Service (DoS) e Botnets](./certificates/ataques-denial-of-service-(DoS)-e-botnets.pdf) — Técnicas MITM, SSLStrip/HSTS.
+- [Ataques Man-in-the-Middle (MITM)](./certificates/ataques-man-in-the-middle-(MITM).pdf) — DoS, UDP flooder, cenários de botnet
+  
 ---
