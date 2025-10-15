@@ -39,7 +39,7 @@
 
 ---
 
-### 🧩 Desenvolvimento Web para Pentesters
+### 💻 Desenvolvimento Web para Pentesters
 
 ![image](https://github.com/user-attachments/assets/e2849069-85ec-4213-ac9c-37a8f3760ad0)
 
