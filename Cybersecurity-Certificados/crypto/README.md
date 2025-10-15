@@ -11,5 +11,6 @@
 ## 📜 Certificados / Certificates
 
 - [Fundamentos de Criptografia e Senhas](.certificates/fundamentos-de-criptografia-e-senhas.pdf) — Curso introdutório sobre criptografia simétrica, assimétrica e boas práticas de hashing.
+- [Fundamentos de Privacidade e Anonimato](.certificates/fundamentos-de-privacidade-anonimato.pdf) — Curso apresenta os princípios essenciais para proteger sua privacidade e manter o anonimato na Internet, minimizando a sua exposição online.
 
   ---
