@@ -39,5 +39,15 @@
 
 ---
 
+### 🧩 Desenvolvimento Web para Pentesters
 
+![image](https://github.com/user-attachments/assets/e2849069-85ec-4213-ac9c-37a8f3760ad0)
+
+**Breve descrição:**
+
+**PT-BR:** Será aprendido no curso conceitos de desenvolvimento web e também será mostrado como funciona o protocolo HTTP, fornecendo a base necessária para compreender vulnerabilidades e comportamentos de aplicações durante testes de invasão.
+
+**EN:**  The course teaches web development concepts and demonstrates how the HTTP protocol works, providing the foundational knowledge needed to understand vulnerabilities and application behavior during penetration testing.
+
+---
 
