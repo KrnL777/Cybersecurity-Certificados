@@ -65,7 +65,7 @@ Short description: Courses and certifications related to network security, recon
 **EN:** Advanced infrastructure pentesting course, including exploitation of servers, services, and network vulnerabilities.
 
 ---
-### Ataques Man-in-the-Middle (MITM)
+### ⚔️ Ataques Man-in-the-Middle (MITM)
 
 ![image](https://github.com/user-attachments/assets/72dd2e0f-f2cd-4b24-b4dd-bb17c822fcfd)
 
@@ -76,7 +76,7 @@ Short description: Courses and certifications related to network security, recon
 
 ---
 
-###
+### 💣 Ataques Denial of Service (DoS) e Botnets
 
 ![image](https://github.com/user-attachments/assets/29c8ec92-bf88-4711-9c47-f7fc7e5b459c)
 
