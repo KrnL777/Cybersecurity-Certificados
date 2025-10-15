@@ -65,5 +65,23 @@ Short description: Courses and certifications related to network security, recon
 **EN:** Advanced infrastructure pentesting course, including exploitation of servers, services, and network vulnerabilities.
 
 ---
+### Ataques Man-in-the-Middle (MITM)
+
+![image](https://github.com/user-attachments/assets/72dd2e0f-f2cd-4b24-b4dd-bb17c822fcfd)
+
+**PT-BR:**  O curso abordará métodos de interceptação, manipulação de tráfego, captura de dados e ferramentas utilizadas por atacantes.
+
+**EN:** This course covers interception techniques, traffic manipulation, data capture, and the attacker tools commonly used in such operations
 
 
+---
+
+###
+
+![image](https://github.com/user-attachments/assets/29c8ec92-bf88-4711-9c47-f7fc7e5b459c)
+
+**PT-BR:** Curso onde são explorados os conceitos, métodos e impactos dos ataques de negação de serviço (DoS) e botnets, demonstrando como funcionam, suas consequências e técnicas de mitigação.
+
+**EN:** Course exploring the concepts, methods, and impacts of Denial of Service (DoS) attacks and botnets, demonstrating how they work, their consequences, and mitigation techniques.
+
+---
